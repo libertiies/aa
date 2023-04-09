@@ -678,7 +678,7 @@ h{
 }
 
 .menu{
-    background: url(/assets/images/background/text1.jpg) center no-repeat;
+    background: url(../images/background/text1.jpg) center no-repeat;
     background-size: cover;
     width: 100%;
     padding: 47px 0 47px 0;
