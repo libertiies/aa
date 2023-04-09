@@ -746,21 +746,21 @@ h{
 
 
 .main-banner #imgban3{
-    background-image: url(/assets/images/menu/3.png);
+    background-image: url(../images/menu/1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .main-banner #imgban2{
-    background-image: url(/assets/images/menu/2.png);
+    background-image: url(../images/menu/2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .main-banner #imgban1{
-    background-image: url(/assets/images/menu/1.png);
+    background-image: url(../images/menu/1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
